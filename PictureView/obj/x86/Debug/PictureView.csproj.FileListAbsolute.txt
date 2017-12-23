@@ -1,0 +1,40 @@
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\bin\Debug\图片查看器.exe
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\bin\Debug\图片查看器.pdb
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\obj\x86\Debug\图片查看器.Form1.resources
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\obj\x86\Debug\图片查看器.Properties.Resources.resources
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\obj\x86\Debug\PictureView.csproj.GenerateResource.Cache
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\obj\x86\Debug\图片查看器.exe
+F:\学习\博客园中例子\Projects\图片查看器\PictureView\obj\x86\Debug\图片查看器.pdb
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\图片查看器.exe
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\图片查看器.pdb
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\PictureView.csprojResolveAssemblyReference.cache
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\图片查看器.Form1.resources
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\图片查看器.Properties.Resources.resources
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\PictureView.csproj.GenerateResource.Cache
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\图片查看器.exe
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\obj\x86\Debug\图片查看器.pdb
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.UI.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.World.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\OpenTK.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\OpenTK.GLControl.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\ZedGraph.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.UI.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\Emgu.CV.World.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\OpenTK.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\OpenTK.GLControl.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\ZedGraph.xml
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wawa\Documents\Visual Studio 2017\Projects\ImageMark\PictureView\bin\Debug\zh-tw\ZedGraph.resources.dll
